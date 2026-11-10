@@ -1,4 +1,4 @@
-# Lab15--Lucky-13-checker
+# Lab14--Lucky-13-checker
 
 ## Objective
 Write a program that generates a series of random numbers and tracks whether a specific number (13) appears.
